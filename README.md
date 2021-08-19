@@ -37,7 +37,7 @@
 <!-- <h2> Skills <img src = "Images/Skills.gif" width = 32px> </h2> -->
 
 
-| <h2> Skills </h2>   |      <h2> <img src = "Images/skills.gif" width = 32px> </h2>      |
+| <h2> Skills </h2>   |      <h2> <img src = "Images/Skills.gif" width = 32px> </h2>      |
 |----------|:-------------:|
 |  <h2> <img src = "Images/cloud.gif" width = 75px> </h2> | <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="Images/aws.gif" alt="aws" width="60" height="40"/> </a>   |
 <!-- 
