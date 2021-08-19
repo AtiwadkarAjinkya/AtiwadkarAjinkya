@@ -64,6 +64,12 @@
       <img src="Images/puppet.svg" alt="azure" width="150px"/>
     </td>
   </tr>
+  <tr>
+    <td> <img src = "Images/iac.gif" width = 75px> </td>
+    <td>
+      <img src="Images/terraform.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
 
 
 </table>
