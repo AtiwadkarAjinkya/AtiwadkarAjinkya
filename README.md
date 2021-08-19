@@ -70,6 +70,25 @@
       <img src="Images/terraform.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
+  <tr>
+    <td> <img src = "Images/programming.gif" width = 75px> </td>
+    <td>
+      <img src="Images/python.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/shell.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/ruby.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/java.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+    <tr>
+    <td> <img src = "Images/os.gif" width = 75px> </td>
+    <td>
+      <img src="Images/linux.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/macos.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/windows.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+
+
 
 
 </table>
