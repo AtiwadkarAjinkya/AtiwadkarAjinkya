@@ -56,6 +56,14 @@
       <img src="Images/k8s.svg" alt="azure" width="65px"/>
     </td>
   </tr>
+    <tr>
+    <td> <img src = "Images/gears.gif" width = 75px> </td>
+    <td>
+      <img src="Images/ansible.svg" alt="aws" width="65px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/chef.svg" alt="azure" width="65px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/puppet.svg" alt="azure" width="150px"/>
+    </td>
+  </tr>
 
 
 </table>
