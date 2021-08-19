@@ -30,9 +30,9 @@
 <p><a href="https://www.buymeacoffee.com/theAjinkya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theAjinkya" /></a></p><br><br><br><br>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atiwadkarajinkya&show_icons=true&locale=en&layout=compact" alt="atiwadkarajinkya" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atiwadkarajinkya&show_icons=true&locale=en&layout=compact" alt="atiwadkarajinkya" width="450" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=atiwadkarajinkya&show_icons=true&locale=en" alt="atiwadkarajinkya" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atiwadkarajinkya&show_icons=true&locale=en" alt="atiwadkarajinkya" width="450" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atiwadkarajinkya&" alt="atiwadkarajinkya" width="300" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atiwadkarajinkya&" alt="atiwadkarajinkya" width="450" />
 </p>
