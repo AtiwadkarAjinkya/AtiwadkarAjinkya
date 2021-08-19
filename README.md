@@ -34,7 +34,7 @@
 
 <br>
 
-<!-- <h2> Skills <img src = "Images/skills.gif" width = 32px> </h2> -->
+<!-- <h2> Skills <img src = "Images/Skills.gif" width = 32px> </h2> -->
 
 
 | <h2> Skills </h2>   |      <h2> <img src = "Images/skills.gif" width = 32px> </h2>      |
