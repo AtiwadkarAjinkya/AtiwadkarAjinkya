@@ -101,7 +101,7 @@
 </table>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/theAjinkya"> <img align="left" src="Images/coffee.gif" height="100" width="175" alt="theAjinkya" /></a></p><br><br><br><br><br><br>
+<p><a href="https://www.buymeacoffee.com/theAjinkya"> <img align="left" src="Images/coffee.gif" height="150" width="225" alt="theAjinkya" /></a></p><br><br><br><br><br><br><br><br>
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=atiwadkarajinkya&show_icons=true&locale=en" alt="atiwadkarajinkya" width="350" />&nbsp;&nbsp;&nbsp;&nbsp;
