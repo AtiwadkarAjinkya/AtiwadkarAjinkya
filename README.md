@@ -74,19 +74,22 @@
     <td> <img src = "Images/tools.gif" width = 90px> </td>
     <td>
       <img src="Images/jenkins.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/prometheusio.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="Images/grafana.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="Images/kafka.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="Images/kibana.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="Images/jira.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;      
+      <img src="Images/jira.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/git.svg" alt="aws" width="75px"/> &nbsp;&nbsp;&nbsp;&nbsp;          
     </td>
   </tr>
   <tr>
     <td> <img src = "Images/programming.gif" width = 75px> </td>
     <td>
       <img src="Images/python.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/golang.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="Images/shell.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="Images/ruby.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="Images/java.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="Images/ruby.svg" alt="aws" width="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
     <tr>
