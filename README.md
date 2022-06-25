@@ -39,7 +39,7 @@
 <table style="width:100%">
   <tr>
     <th><h2> Skills </h2> </th>
-    <th> <img src = "Images/Skills.gif" width = 32px></th>
+    <th> <img src = "Images/Skills.gif" width = 32></th>
   </tr>
   <tr>
     <td> <img src = "Images/cloud.gif" width = 75px> </td>
