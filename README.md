@@ -25,7 +25,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=atiwadkarajinkya&column=3&margin-w=15&margin-h=15" alt="atiwadkarajinkya"/></p>
 
-<h2> Connect with me <img src='Images/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='Images/handshake.gif' width="100"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/atiwadkarajinkya" target="blank"><img align="center" src="Images/linked-in-alt.svg" alt="atiwadkarajinkya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5295737" target="blank"><img align="center" src="Images/stack-overflow.svg" alt="atiwadkarajinkya" height="30" width="40" /></a>
