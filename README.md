@@ -83,7 +83,7 @@
     </td>
   </tr>
   <tr>
-    <td> <img src = "Images/programming.gif" width = 75> </td>
+    <td> <img src = "Images/code.gif" width = 75> </td>
     <td>
       <img src="Images/python.svg" alt="aws" width="150"/> &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="Images/golang.svg" alt="aws" width="150"/> &nbsp;&nbsp;&nbsp;&nbsp;
